@@ -1,0 +1,17 @@
+window:
+  opacity: 0.7
+  decorations: none
+font:
+  size: 16.0
+  # Normal (roman) font face
+  normal:
+    family: JetBrainsMono NF
+    # The `style` can be specified to pick a specific face.
+    style: Regular
+  # Bold font face
+  bold:
+    family: JetBrainsMono NF
+    # The `style` can be specified to pick a specific face.
+    style: Bold
+shell:
+  program: /usr/bin/zsh
